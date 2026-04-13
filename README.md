@@ -8,9 +8,4 @@ I am concentrating on System Design, Distributed Platforms, AI Agents, language 
  - 🌱 Contributing Blogs 
  
 
-### GitHub Stats & Achievements
-<br />
-
- ![Vijay Ramdoss's GitHub stats](https://github-readme-stats.vercel.app/api?username=nellaivijay&show_icons=true&theme=transparent)
  
-<br />
