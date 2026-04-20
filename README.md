@@ -44,6 +44,9 @@ Welcome to my comprehensive collection of educational code practice repositories
 - Hands-on exercises with Jupyter notebooks
 - Chain of Thought, RAG, and AI Agent implementations
 - Difficulty: Beginner to Advanced
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/dspy-code-practice) | [📖 Explore](https://github.com/nellaivijay/dspy-code-practice)
 
 #### [llm-fine-tuning-practice](https://github.com/nellaivijay/llm-fine-tuning-practice)
@@ -52,6 +55,10 @@ Welcome to my comprehensive collection of educational code practice repositories
 - Practical implementations with popular models
 - PEFT, LoRA, and advanced fine-tuning approaches
 - Difficulty: Intermediate to Advanced
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+- [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red)](https://pytorch.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/llm-fine-tuning-practice) | [📖 Explore](https://github.com/nellaivijay/llm-fine-tuning-practice)
 
 ### 🔧 Data Engineering Practice Repositories
@@ -62,6 +69,10 @@ Welcome to my comprehensive collection of educational code practice repositories
 - SQL optimization and performance tuning
 - Integration with data science workflows
 - Difficulty: Beginner to Intermediate
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+- [![DuckDB](https://img.shields.io/badge/DuckDB-0.9%2B-yellow)](https://duckdb.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/duckdb-code-practice) | [📖 Explore](https://github.com/nellaivijay/duckdb-code-practice)
 
 #### [spark-code-practice](https://github.com/nellaivijay/spark-code-practice)
@@ -70,6 +81,10 @@ Welcome to my comprehensive collection of educational code practice repositories
 - Batch and stream processing
 - Spark SQL, DataFrames, and MLlib
 - Difficulty: Intermediate to Advanced
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+- [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5%2B-orange)](https://spark.apache.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/spark-code-practice) | [📖 Explore](https://github.com/nellaivijay/spark-code-practice)
 
 #### [iceberg-code-practice](https://github.com/nellaivijay/iceberg-code-practice)
@@ -78,6 +93,10 @@ Welcome to my comprehensive collection of educational code practice repositories
 - Time travel, schema evolution, and partitioning
 - Integration with Spark, DuckDB, and other engines
 - Difficulty: Intermediate to Advanced
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+- [![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-Latest-blue)](https://iceberg.apache.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/iceberg-code-practice) | [📖 Explore](https://github.com/nellaivijay/iceberg-code-practice)
 
 #### [beam-code-practice](https://github.com/nellaivijay/beam-code-practice)
@@ -86,6 +105,10 @@ Welcome to my comprehensive collection of educational code practice repositories
 - Pipeline development and optimization
 - IO connectors and deployment patterns
 - Difficulty: Intermediate to Advanced
+- [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+- [![Apache Beam](https://img.shields.io/badge/Apache%20Beam-Latest-green)](https://beam.apache.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/beam-code-practice) | [📖 Explore](https://github.com/nellaivijay/beam-code-practice)
 
 ### 💻 Programming Practice Repositories
@@ -96,6 +119,10 @@ Welcome to my comprehensive collection of educational code practice repositories
 - Functional programming concepts
 - Big data processing with Scala
 - Difficulty: Intermediate
+- [![Scala](https://img.shields.io/badge/Scala-2.10%2B-red)](https://www.scala-lang.org/)
+- [![Apache Spark](https://img.shields.io/badge/Apache%20Spark-1.6%2B-orange)](https://spark.apache.org/)
+- [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+- [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 - [⭐ Star](https://github.com/nellaivijay/scala-dataanalysis-code-practice) | [📖 Explore](https://github.com/nellaivijay/scala-dataanalysis-code-practice)
 
 ## 📚 Resource Collections
@@ -263,10 +290,10 @@ I welcome contributions to all my repositories! Each repository has its own cont
 
 ## 📊 Repository Statistics
 
-- **Total Practice Repositories**: 6
+- **Total Practice Repositories**: 7
 - **Resource Collections**: 3
 - **Advanced Frameworks**: 3
-- **Total Repositories**: 12+
+- **Total Repositories**: 13+
 - **Topics Covered**: AI/ML, Data Engineering, Platform Engineering, System Design
 - **Learning Paths**: 3 comprehensive paths
 - **Technologies**: 20+ modern technologies
